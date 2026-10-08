@@ -6,8 +6,7 @@
 I build web apps, mobile apps, APIs and AI tools — end to end.
 
 [![Open to freelance](https://img.shields.io/badge/status-open_to_freelance-10b981?style=for-the-badge)](mailto:roslanlogan94@gmail.com)
-[![Portfolio](https://img.shields.io/badge/interactive_portfolio-roslanlogan.github.io-0b1110?style=for-the-badge&logo=githubpages&logoColor=10b981)](https://roslanlogan.github.io/roslanlogan/)
-[![Website](https://img.shields.io/badge/website-roslan.is--a.dev-0b1110?style=for-the-badge&logo=googlechrome&logoColor=10b981)](https://roslan.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/interactive_portfolio-roslan.is--a.dev-0b1110?style=for-the-badge&logo=googlechrome&logoColor=10b981)](https://roslan.is-a.dev/)
 [![Email](https://img.shields.io/badge/email-roslanlogan94%40gmail.com-0b1110?style=for-the-badge&logo=gmail&logoColor=10b981)](mailto:roslanlogan94@gmail.com)
 
 </div>
@@ -97,7 +96,7 @@ Most of my work is private client and commercial code, so here's the shape of it
 
 ### ✨ Try the interactive version
 
-The **[interactive portfolio](https://roslanlogan.github.io/roslanlogan/)** has a filterable project grid, a language explorer, a command palette (<kbd>Ctrl</kbd>+<kbd>K</kbd>), light/dark mode and a **project scoper** that turns your requirements into a timeline estimate and a ready-to-send brief.
+The **[interactive portfolio](https://roslan.is-a.dev/)** has a filterable project grid, a language explorer, a command palette (<kbd>Ctrl</kbd>+<kbd>K</kbd>), light/dark mode and a **project scoper** that turns your requirements into a timeline estimate and a ready-to-send brief.
 
 📫 **Got a project?** [roslanlogan94@gmail.com](mailto:roslanlogan94@gmail.com)
 
